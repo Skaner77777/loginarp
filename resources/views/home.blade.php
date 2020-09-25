@@ -15,9 +15,21 @@
                     @endif
 
                     You are logged in!
+                    
                 </div>
+
             </div>
         </div>
     </div>
 </div>
+
+<script type="text/javascript">
+
+    //Carga las funciones al cargar paguina
+    $(document).ready(function() {
+        
+    });
+
+</script>
+
 @endsection
